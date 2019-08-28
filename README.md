@@ -1,4 +1,5 @@
-#Pretty Paint
+# Pretty Paint
+
 Course: CSE 323
 Group: 7
 
@@ -14,7 +15,7 @@ Group: 7
 
 *Pretty Paint* is a simple android painting app developed in android studio using java programming language.
 
-##Features
+## Features
 * Free hand drawing
 * Setting width of the brush
 * Setting colour of brush from colour wheel
