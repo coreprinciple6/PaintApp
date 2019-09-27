@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/saveid"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/Save"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/lineWidthId"
+        android:icon="@drawable/baseline_brush_black_18dp"
+        android:title="@string/lineWidth"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/colorid"
+        android:icon="@drawable/baseline_color_lens_black_18dp"
+        android:title="@string/Color"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/eraseid"
+        android:icon="@drawable/eraser"
+        android:title="@string/erase"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/clearid"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:title="@string/clear"
+        app:showAsAction="collapseActionView" />
+</menu>
