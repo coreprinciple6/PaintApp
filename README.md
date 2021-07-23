@@ -19,5 +19,5 @@ Group: 7
 * Free hand drawing
 * Setting width of the brush
 * Setting colour of brush from colour wheel
-* Saving art
+* Saving art to phone's gallery
 * Erase option
