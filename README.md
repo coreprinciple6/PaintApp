@@ -1,4 +1,4 @@
-# Pretty Paint
+# Pretty Paints
 
 Course: CSE 323
 Group: 7
@@ -13,7 +13,7 @@ Group: 7
 |Nahian Noshin Nur         |1510798642           |
 
 
-*Pretty Paint* is a simple android painting app developed on Android Studio using Java programming language.
+*Pretty Paints* is a simple android painting app developed on Android Studio using Java programming language.
 
 ## Features
 * Free hand drawing
