@@ -13,7 +13,7 @@ Group: 7
 |Nahian Noshin Nur         |1510798642           |
 
 
-*Pretty Paint* is a simple android painting app developed in android studio using java programming language.
+*Pretty Paint* is a simple android painting app developed on Android Studio using Java programming language.
 
 ## Features
 * Free hand drawing
